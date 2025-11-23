@@ -1,6 +1,6 @@
 # UX Design Process for Hospital Appointment Booking App
-# NAME : MOHAMMED HAMZA M
-# REG NO : 212224230167
+# NAME : BHARANI KUMAR S
+# REG NO : 212224230035
 
 ## AIM
 
